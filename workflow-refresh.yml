@@ -1,0 +1,27 @@
+name: Refresh ysp-live playlists
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Generate playlists
+        run: python3 ysp-live/export-action.py
+        working-directory: .
+      - name: Commit and push
+        run: |
+          git config user.name "ysp-bot"
+          git config user.email "ysp-bot@users.noreply.github.com"
+          git add '*.m3u' '*.m3u8'
+          git diff --cached --quiet || git commit -m "refresh playlists $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
