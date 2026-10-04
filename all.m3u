@@ -1,0 +1,123 @@
+#EXTM3U
+#EXTINF:-1,CCTV-1 综合
+https://petem379-cmd.github.io/ysp/cctv1.m3u8
+#EXTINF:-1,CCTV-2 财经
+https://petem379-cmd.github.io/ysp/cctv2.m3u8
+#EXTINF:-1,CCTV-3 综艺
+https://petem379-cmd.github.io/ysp/cctv3.m3u8
+#EXTINF:-1,CCTV-4 中文国际
+https://petem379-cmd.github.io/ysp/cctv4.m3u8
+#EXTINF:-1,CCTV-5 体育
+https://petem379-cmd.github.io/ysp/cctv5.m3u8
+#EXTINF:-1,CCTV-5+ 体育赛事
+https://petem379-cmd.github.io/ysp/cctv5p.m3u8
+#EXTINF:-1,CCTV-6 电影
+https://petem379-cmd.github.io/ysp/cctv6.m3u8
+#EXTINF:-1,CCTV-7 国防军事
+https://petem379-cmd.github.io/ysp/cctv7.m3u8
+#EXTINF:-1,CCTV-8 电视剧
+https://petem379-cmd.github.io/ysp/cctv8.m3u8
+#EXTINF:-1,CCTV-9 纪录
+https://petem379-cmd.github.io/ysp/cctv9.m3u8
+#EXTINF:-1,CCTV-10 科教
+https://petem379-cmd.github.io/ysp/cctv10.m3u8
+#EXTINF:-1,CCTV-11 戏曲
+https://petem379-cmd.github.io/ysp/cctv11.m3u8
+#EXTINF:-1,CCTV-12 社会与法
+https://petem379-cmd.github.io/ysp/cctv12.m3u8
+#EXTINF:-1,CCTV-13 新闻
+https://petem379-cmd.github.io/ysp/cctv13.m3u8
+#EXTINF:-1,CCTV-14 少儿
+https://petem379-cmd.github.io/ysp/cctv14.m3u8
+#EXTINF:-1,CCTV-15 音乐
+https://petem379-cmd.github.io/ysp/cctv15.m3u8
+#EXTINF:-1,CCTV-17 农业农村
+https://petem379-cmd.github.io/ysp/cctv17.m3u8
+#EXTINF:-1,CCTV-4K 超高清
+https://petem379-cmd.github.io/ysp/cctv4k.m3u8
+#EXTINF:-1,CCTV-8K 超高清
+https://petem379-cmd.github.io/ysp/cctv8k.m3u8
+#EXTINF:-1,CGTN
+https://petem379-cmd.github.io/ysp/cgtn.m3u8
+#EXTINF:-1,CGTN 法语
+https://petem379-cmd.github.io/ysp/cgtnfr.m3u8
+#EXTINF:-1,CGTN 俄语
+https://petem379-cmd.github.io/ysp/cgtnru.m3u8
+#EXTINF:-1,CGTN 阿拉伯语
+https://petem379-cmd.github.io/ysp/cgtnar.m3u8
+#EXTINF:-1,CGTN 西班牙语
+https://petem379-cmd.github.io/ysp/cgtnes.m3u8
+#EXTINF:-1,CGTN 纪录
+https://petem379-cmd.github.io/ysp/cgtndoc.m3u8
+#EXTINF:-1,CCTV 风云剧场
+https://petem379-cmd.github.io/ysp/cctvfyjc.m3u8
+#EXTINF:-1,CCTV 第一剧场
+https://petem379-cmd.github.io/ysp/cctvdyjc.m3u8
+#EXTINF:-1,CCTV 怀旧剧场
+https://petem379-cmd.github.io/ysp/cctvhjjc.m3u8
+#EXTINF:-1,北京卫视
+https://petem379-cmd.github.io/ysp/bjws.m3u8
+#EXTINF:-1,江苏卫视
+https://petem379-cmd.github.io/ysp/jsws.m3u8
+#EXTINF:-1,东方卫视
+https://petem379-cmd.github.io/ysp/dfws.m3u8
+#EXTINF:-1,浙江卫视
+https://petem379-cmd.github.io/ysp/zjws.m3u8
+#EXTINF:-1,湖南卫视
+https://petem379-cmd.github.io/ysp/hnws.m3u8
+#EXTINF:-1,湖北卫视
+https://petem379-cmd.github.io/ysp/hbws.m3u8
+#EXTINF:-1,广东卫视
+https://petem379-cmd.github.io/ysp/gdws.m3u8
+#EXTINF:-1,广西卫视
+https://petem379-cmd.github.io/ysp/gxws.m3u8
+#EXTINF:-1,黑龙江卫视
+https://petem379-cmd.github.io/ysp/hljws.m3u8
+#EXTINF:-1,海南卫视
+https://petem379-cmd.github.io/ysp/hainanws.m3u8
+#EXTINF:-1,重庆卫视
+https://petem379-cmd.github.io/ysp/cqws.m3u8
+#EXTINF:-1,深圳卫视
+https://petem379-cmd.github.io/ysp/szws.m3u8
+#EXTINF:-1,四川卫视
+https://petem379-cmd.github.io/ysp/scws.m3u8
+#EXTINF:-1,河南卫视
+https://petem379-cmd.github.io/ysp/henanws.m3u8
+#EXTINF:-1,东南卫视
+https://petem379-cmd.github.io/ysp/dnws.m3u8
+#EXTINF:-1,贵州卫视
+https://petem379-cmd.github.io/ysp/gzws.m3u8
+#EXTINF:-1,江西卫视
+https://petem379-cmd.github.io/ysp/jxws.m3u8
+#EXTINF:-1,辽宁卫视
+https://petem379-cmd.github.io/ysp/lnws.m3u8
+#EXTINF:-1,安徽卫视
+https://petem379-cmd.github.io/ysp/ahws.m3u8
+#EXTINF:-1,河北卫视
+https://petem379-cmd.github.io/ysp/hebws.m3u8
+#EXTINF:-1,山东卫视
+https://petem379-cmd.github.io/ysp/sdws.m3u8
+#EXTINF:-1,天津卫视
+https://petem379-cmd.github.io/ysp/tjws.m3u8
+#EXTINF:-1,吉林卫视
+https://petem379-cmd.github.io/ysp/jlws.m3u8
+#EXTINF:-1,陕西卫视
+https://petem379-cmd.github.io/ysp/saxws.m3u8
+#EXTINF:-1,宁夏卫视
+https://petem379-cmd.github.io/ysp/nxws.m3u8
+#EXTINF:-1,内蒙古卫视
+https://petem379-cmd.github.io/ysp/nmgws.m3u8
+#EXTINF:-1,云南卫视
+https://petem379-cmd.github.io/ysp/ynws.m3u8
+#EXTINF:-1,山西卫视
+https://petem379-cmd.github.io/ysp/shanxiws.m3u8
+#EXTINF:-1,青海卫视
+https://petem379-cmd.github.io/ysp/qhws.m3u8
+#EXTINF:-1,西藏卫视
+https://petem379-cmd.github.io/ysp/xizangws.m3u8
+#EXTINF:-1,新疆卫视
+https://petem379-cmd.github.io/ysp/xjws.m3u8
+#EXTINF:-1,CETV-1
+https://petem379-cmd.github.io/ysp/cetv1.m3u8
+#EXTINF:-1,国学频道
+https://petem379-cmd.github.io/ysp/guoxue.m3u8
