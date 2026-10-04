@@ -16,8 +16,7 @@ jobs:
         with:
           python-version: '3.11'
       - name: Generate playlists
-        run: python3 ysp-live/export-action.py
-        working-directory: .
+        run: python3 export-action.py
       - name: Commit and push
         run: |
           git config user.name "ysp-bot"
