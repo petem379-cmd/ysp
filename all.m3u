@@ -111,6 +111,8 @@ https://petem379-cmd.github.io/ysp/nmgws.m3u8
 https://petem379-cmd.github.io/ysp/ynws.m3u8
 #EXTINF:-1,山西卫视
 https://petem379-cmd.github.io/ysp/shanxiws.m3u8
+#EXTINF:-1,甘肃卫视
+https://petem379-cmd.github.io/ysp/gsws.m3u8
 #EXTINF:-1,青海卫视
 https://petem379-cmd.github.io/ysp/qhws.m3u8
 #EXTINF:-1,西藏卫视
